@@ -1,0 +1,60 @@
+[19-Sep-2022 13:21:47 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_num_rows(): Argument #1 ($result) must be of type mysqli_result, bool given in /home4/jivanlpt/jivandhara-navjivan.com/erp/external-party/check_nameAJAX.php:15
+Stack trace:
+#0 /home4/jivanlpt/jivandhara-navjivan.com/erp/external-party/check_nameAJAX.php(15): mysqli_num_rows(false)
+#1 {main}
+  thrown in /home4/jivanlpt/jivandhara-navjivan.com/erp/external-party/check_nameAJAX.php on line 15
+[19-Sep-2022 13:21:47 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_num_rows(): Argument #1 ($result) must be of type mysqli_result, bool given in /home4/jivanlpt/jivandhara-navjivan.com/erp/external-party/check_nameAJAX.php:15
+Stack trace:
+#0 /home4/jivanlpt/jivandhara-navjivan.com/erp/external-party/check_nameAJAX.php(15): mysqli_num_rows(false)
+#1 {main}
+  thrown in /home4/jivanlpt/jivandhara-navjivan.com/erp/external-party/check_nameAJAX.php on line 15
+[20-Nov-2022 11:50:39 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_num_rows(): Argument #1 ($result) must be of type mysqli_result, bool given in /home4/jivanlpt/jivandhara-navjivan.com/erp/external-party/check_nameAJAX.php:15
+Stack trace:
+#0 /home4/jivanlpt/jivandhara-navjivan.com/erp/external-party/check_nameAJAX.php(15): mysqli_num_rows(false)
+#1 {main}
+  thrown in /home4/jivanlpt/jivandhara-navjivan.com/erp/external-party/check_nameAJAX.php on line 15
+[24-Nov-2022 06:37:38 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_num_rows(): Argument #1 ($result) must be of type mysqli_result, bool given in /home4/jivanlpt/jivandhara-navjivan.com/erp/external-party/check_nameAJAX.php:15
+Stack trace:
+#0 /home4/jivanlpt/jivandhara-navjivan.com/erp/external-party/check_nameAJAX.php(15): mysqli_num_rows(false)
+#1 {main}
+  thrown in /home4/jivanlpt/jivandhara-navjivan.com/erp/external-party/check_nameAJAX.php on line 15
+[20-Dec-2022 09:47:32 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_num_rows(): Argument #1 ($result) must be of type mysqli_result, bool given in /home4/jivanlpt/jivandhara-navjivan.com/erp/external-party/check_nameAJAX.php:15
+Stack trace:
+#0 /home4/jivanlpt/jivandhara-navjivan.com/erp/external-party/check_nameAJAX.php(15): mysqli_num_rows(false)
+#1 {main}
+  thrown in /home4/jivanlpt/jivandhara-navjivan.com/erp/external-party/check_nameAJAX.php on line 15
+[20-Dec-2022 09:47:47 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_num_rows(): Argument #1 ($result) must be of type mysqli_result, bool given in /home4/jivanlpt/jivandhara-navjivan.com/erp/external-party/check_nameAJAX.php:15
+Stack trace:
+#0 /home4/jivanlpt/jivandhara-navjivan.com/erp/external-party/check_nameAJAX.php(15): mysqli_num_rows(false)
+#1 {main}
+  thrown in /home4/jivanlpt/jivandhara-navjivan.com/erp/external-party/check_nameAJAX.php on line 15
+[20-Dec-2022 09:47:49 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_num_rows(): Argument #1 ($result) must be of type mysqli_result, bool given in /home4/jivanlpt/jivandhara-navjivan.com/erp/external-party/check_nameAJAX.php:15
+Stack trace:
+#0 /home4/jivanlpt/jivandhara-navjivan.com/erp/external-party/check_nameAJAX.php(15): mysqli_num_rows(false)
+#1 {main}
+  thrown in /home4/jivanlpt/jivandhara-navjivan.com/erp/external-party/check_nameAJAX.php on line 15
+[31-Dec-2022 10:08:54 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_num_rows(): Argument #1 ($result) must be of type mysqli_result, bool given in /home4/jivanlpt/jivandhara-navjivan.com/erp/external-party/check_nameAJAX.php:15
+Stack trace:
+#0 /home4/jivanlpt/jivandhara-navjivan.com/erp/external-party/check_nameAJAX.php(15): mysqli_num_rows(false)
+#1 {main}
+  thrown in /home4/jivanlpt/jivandhara-navjivan.com/erp/external-party/check_nameAJAX.php on line 15
+[31-Dec-2022 10:08:55 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_num_rows(): Argument #1 ($result) must be of type mysqli_result, bool given in /home4/jivanlpt/jivandhara-navjivan.com/erp/external-party/check_nameAJAX.php:15
+Stack trace:
+#0 /home4/jivanlpt/jivandhara-navjivan.com/erp/external-party/check_nameAJAX.php(15): mysqli_num_rows(false)
+#1 {main}
+  thrown in /home4/jivanlpt/jivandhara-navjivan.com/erp/external-party/check_nameAJAX.php on line 15
+[06-Feb-2023 12:13:30 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_num_rows(): Argument #1 ($result) must be of type mysqli_result, bool given in /home4/jivanlpt/jivandhara-navjivan.com/erp/external-party/check_nameAJAX.php:15
+Stack trace:
+#0 /home4/jivanlpt/jivandhara-navjivan.com/erp/external-party/check_nameAJAX.php(15): mysqli_num_rows(false)
+#1 {main}
+  thrown in /home4/jivanlpt/jivandhara-navjivan.com/erp/external-party/check_nameAJAX.php on line 15
+[06-Feb-2023 12:13:31 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_num_rows(): Argument #1 ($result) must be of type mysqli_result, bool given in /home4/jivanlpt/jivandhara-navjivan.com/erp/external-party/check_nameAJAX.php:15
+Stack trace:
+#0 /home4/jivanlpt/jivandhara-navjivan.com/erp/external-party/check_nameAJAX.php(15): mysqli_num_rows(false)
+#1 {main}
+  thrown in /home4/jivanlpt/jivandhara-navjivan.com/erp/external-party/check_nameAJAX.php on line 15
+[25-Mar-2023 08:06:11 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_num_rows(): Argument #1 ($result) must be of type mysqli_result, bool given in /home4/jivanlpt/jivandhara-navjivan.com/erp/external-party/check_nameAJAX.php:15
+Stack trace:
+#0 /home4/jivanlpt/jivandhara-navjivan.com/erp/external-party/check_nameAJAX.php(15): mysqli_num_rows(false)
+#1 {main}
+  thrown in /home4/jivanlpt/jivandhara-navjivan.com/erp/external-party/check_nameAJAX.php on line 15

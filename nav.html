@@ -1,0 +1,490 @@
+<nav id="sidebar">
+    <div class="sidebar-header">
+
+        <div class="nav_title"><i class= "fa fa-bars nav_title_icon"></i><span class="menu_nav_main">NAVIGATION</span></div>
+       
+    </div>
+    <ul id="menu" class="list-unstyled components">
+        <li>
+            <a href="/index.php">
+                <i class="main_nav_icon icon-home_2"></i>
+                <span id="indexphp" class="menu_nav_main">Home</span>
+            </a>
+        </li>
+       
+
+        <li>
+            <a onclick="iconSwitch(this)" href="#sales_section" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">
+                <i class="main_nav_icon icon-sales"></i>
+                <span id="sales_page" class="menu_nav_main">Sales</span>
+                  <span id="sales_expand_icon" class="icon-add expand_icon"></span>
+            </a>
+            <ul class="collapse list-unstyled" id="sales_section">
+                <li>
+                    <a id="sales_conf_indexphp" href="/sales_conf_index.php"><span class="sub-arrow icon-arrow_right_small_direction_navigation_icon"></span>Sales</a>
+                </li>
+             
+                <li>
+                    <a id="sales_register" href="/sales_register"><span class="sub-arrow icon-arrow_right_small_direction_navigation_icon"></span>Sales Register</a>
+                </li>
+
+                <li>
+                    <a id="payment_recivied_register" href="/payment_recivied_register"><span class="sub-arrow icon-arrow_right_small_direction_navigation_icon"></span>Payment Recivied register </a>
+                </li>
+                <li>
+                    <a id="pending_bales_report" href="/pending_bales_report"><span class="sub-arrow icon-arrow_right_small_direction_navigation_icon"></span>Pending Bales Report</a>
+                </li>
+
+                 <li>
+                    <a id="kapasiya-sales-rg" href="/kapasiya-sales-rg"><span class="sub-arrow icon-arrow_right_small_direction_navigation_icon"></span>Kapasiya Sales Report</a>
+                </li>
+                 <li>
+                    <a id="kapasiya_annual_sales" href="/kapasiya_annual_sales"><span class="sub-arrow icon-arrow_right_small_direction_navigation_icon"></span>Kapasiya Annual Sales</a>
+                </li>
+                <li>
+                    <a id="kapasiya_sales_register" href="/kapasiya_sales_register"><span class="sub-arrow icon-arrow_right_small_direction_navigation_icon"></span>Kapasiya Sales Register</a>
+                </li>
+                <li>
+                    <a id="tds_tcs_declaration_sales" href="/tds_tcs_declaration_sales/index.php?module=sales"><span class="sub-arrow icon-arrow_right_small_direction_navigation_icon"></span>TDS/TCS Declaration Sales</a>
+                </li>
+
+            </ul>
+
+        </li>
+
+        <li>
+            <a onclick="iconSwitch(this)" href="#purchase_section" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">
+                <i class="main_nav_icon icon-pruchase_2"></i>
+                <span id="purchase_page" class="menu_nav_main">Purchase</span>
+                <span id="purchase_expand_icon" class="icon-add expand_icon"></span>
+            </a>
+            <ul class="collapse list-unstyled" id="purchase_section">
+                <li>
+                    <a id="purchase_indexphp" href="/purchase_index.php"><span class="sub-arrow icon-arrow_right_small_direction_navigation_icon"></span>Purchase</a>
+                </li>
+
+                 <li>
+                    <a id="purchase_register" href="/purchase_register"><span class="sub-arrow icon-arrow_right_small_direction_navigation_icon"></span>Purchase Register</a>
+                </li>
+
+                 <li>
+                    <a id="debit_note_register" href="/debit_note_register"><span class="sub-arrow icon-arrow_right_small_direction_navigation_icon"></span>Debit Note Register</a>
+                </li>
+
+                <li>
+                    <a id="comparison_report" href="/comparison_report"><span class="sub-arrow icon-arrow_right_small_direction_navigation_icon"></span>Comparison Report</a>
+                </li>
+                 <li>
+                    <a id="comparison_pending_register" href="/comparison_pending_register"><span class="sub-arrow icon-arrow_right_small_direction_navigation_icon"></span>Comparison Pending Register</a>
+                </li>
+                 
+                <li>
+                    <a id="comparison_report_excel_export" href="/comparison_report_excel_export"><span class="sub-arrow icon-arrow_right_small_direction_navigation_icon"></span>Comparison Excel Export</a>
+                </li>
+
+                <li>
+                    <a id="bill2bill_payment" href="/bill2bill_payment"><span class="sub-arrow icon-arrow_right_small_direction_navigation_icon"></span>Bill 2 Bill Payment</a>
+                </li>
+
+                <li>
+                    <a id="bank_transation" href="/bank_transation.php"><span class="sub-arrow icon-arrow_right_small_direction_navigation_icon"></span>Bank Transaction</a>
+                </li>
+
+                 <li>
+                    <a id="rd_kapas_report_export" href="/rd_kapas_report_export"><span class="sub-arrow icon-arrow_right_small_direction_navigation_icon"></span>RD Kapas Report</a>
+                </li>  
+                
+                <li>
+                    <a id="tds_tcs_declaration_pur" href="/tds_tcs_declaration_sales/index.php?module=purchase_cotton"><span class="sub-arrow icon-arrow_right_small_direction_navigation_icon"></span>TDS/TCS Declaration Purchase</a>
+                </li>
+            
+            </ul>
+        </li>
+
+        <li>
+            <a href="/other_payout">
+                <i class="main_nav_icon icon-pending"></i>
+                <span id="other_payout" class="menu_nav_main">Other Payout</span>
+            </a>
+        </li>
+        
+        <li>
+            <a href="/daily_payment_report">
+                <i class="main_nav_icon icon-payment"></i>
+               <span id="daily_payment_report" class="menu_nav_main">Daily Payment Report</span>
+            </a>
+        </li>
+
+
+         <li>
+            <a onclick="iconSwitch(this)" href="#ledger_section" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">
+                <i class="main_nav_icon icon-register"></i>
+                <span id="ledger_page" class="menu_nav_main">Ledger</span>
+                <span id="ledger_exapand_icon" class="icon-add expand_icon"></span>
+            </a>
+            <ul class="collapse list-unstyled" id="ledger_section">
+                <li>
+                    <a id="ledger-purchase" href="/ledger-purchase"><span class="sub-arrow icon-arrow_right_small_direction_navigation_icon"></span>Ledger Purchase</a>
+                </li>
+                
+                <li>
+                    <a id="ledger-sale" href="/ledger-sale"><span class="sub-arrow icon-arrow_right_small_direction_navigation_icon"></span>Ledger Sale</a>
+                </li>
+            </ul>
+        </li>
+
+
+        <li>
+            <a onclick="iconSwitch(this)" href="#master_section" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">
+                <i class="main_nav_icon icon-other"></i>
+                <span id="master_page" class="menu_nav_main">Master</span>
+                <span id="master_expand_icon" class="icon-add expand_icon"></span>
+            </a>
+            <ul class="collapse list-unstyled" id="master_section">
+                <li>
+                    <a id="financial-year" href="/financial-year"><span class="sub-arrow icon-arrow_right_small_direction_navigation_icon"></span>Financial Years</a>
+                </li>
+                <li>
+                    <a id="seasonal-year" href="/seasonal-year"><span class="sub-arrow icon-arrow_right_small_direction_navigation_icon"></span>Seasonal Year Master</a>
+                </li>
+                
+                <li>
+                    <a id="firm" href="/firm"><span class="sub-arrow icon-arrow_right_small_direction_navigation_icon"></span>Firm</a>
+                </li>
+                <li>
+                    <a id="products" href="/products"><span class="sub-arrow icon-arrow_right_small_direction_navigation_icon"></span>Products Database</a>
+                </li>
+                
+                <li>
+                    <a id="broker" href="/broker"><span class="sub-arrow icon-arrow_right_small_direction_navigation_icon"></span>Broker Database</a>
+                </li>
+                <li>
+                    <a id="truck-master" href="/truck-master"><span class="sub-arrow icon-arrow_right_small_direction_navigation_icon"></span>Truck Master</a>
+                </li>
+                <li>
+                    <a id="transport" href="/transport"><span class="sub-arrow icon-arrow_right_small_direction_navigation_icon"></span>Transport Database</a>
+                </li>
+                <li>
+                    <a id="external-party" href="/external-party"><span class="sub-arrow icon-arrow_right_small_direction_navigation_icon"></span>External Party</a>
+                </li>
+                <li>
+                    <a id="laboratory-master" href="/laboratory-master"><span class="sub-arrow icon-arrow_right_small_direction_navigation_icon"></span>Laboratory</a>
+                </li>
+                <li>
+                    <a id="external-banks" href="/external-banks"><span class="sub-arrow icon-arrow_right_small_direction_navigation_icon"></span>External Party Banks</a>
+                </li>  
+                <!-- <li>-->
+                <!--    <a id="bank_master" href="/bank_master"><span class="sub-arrow icon-arrow_right_small_direction_navigation_icon"></span>Bank Master</a>-->
+                <!--</li>-->
+                <li>
+                    <a id="farmer" href="/farmer"><span class="sub-arrow icon-arrow_right_small_direction_navigation_icon"></span>Farmer</a>
+                </li>
+            </ul>
+        </li>
+        <li>
+            <a onclick="iconSwitch(this)" href="#banking_section" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">
+                <i class="main_nav_icon icon-bill2bill"></i>
+                <span id="banking_page" class="menu_nav_main">Banking</span>
+                <span id="banking_expand_icon" class="icon-add expand_icon"></span>
+            </a>
+            <ul class="collapse list-unstyled" id="banking_section">
+                <li>
+                    <a id="bank-stock-stmt" href="/banking-reports/bank-stock-stmt/"><span class="sub-arrow icon-arrow_right_small_direction_navigation_icon"></span>Bank Stock Statement</a>
+                </li>
+                <li>
+                    <a id="cma" href="/banking-reports/cma/"><span class="sub-arrow icon-arrow_right_small_direction_navigation_icon"></span>CMA</a>
+                </li>
+                <li>
+                    <a id="external-credit-rating" href="/banking-reports/external-credit-rating/"><span class="sub-arrow icon-arrow_right_small_direction_navigation_icon"></span>External Credit Rating</a>
+                </li>
+                <li>
+                    <a id="qis" href="/banking-reports/qis/"><span class="sub-arrow icon-arrow_right_small_direction_navigation_icon"></span>QIS</a>
+                </li>
+                <li>
+                    <a id="sanction-letter" href="/banking-reports/sanction-letter/"><span class="sub-arrow icon-arrow_right_small_direction_navigation_icon"></span>Sanction Letter</a>
+                </li>
+                <li>
+                    <a id="stock-auditor-detail" href="/banking-reports/stock-auditor-detail/"><span class="sub-arrow icon-arrow_right_small_direction_navigation_icon"></span>Stock Auditor Details</a>
+                </li>
+            </ul>
+        </li>
+        <li>
+             <a onclick="iconSwitch(this)" href="#reports_section" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">
+                <i class="main_nav_icon icon-reprot_2"></i>
+                <span id="report_page" class="menu_nav_main">Reports</span>
+                <span id="report_expand_icon" class="icon-add expand_icon"></span>
+            </a>
+            <ul class="collapse list-unstyled" id="reports_section">
+                <li>
+                    <a id="assessment" href="/assessment"><span class="sub-arrow icon-arrow_right_small_direction_navigation_icon"></span>Assessment Report</a>
+                </li>
+                <li>
+                    <a id="audit-report" href="/audit-report"><span class="sub-arrow icon-arrow_right_small_direction_navigation_icon"></span>Audit & ITR Report</a>
+                </li>
+                <li>
+                    <a id="tds_tcs_declaration_received" href="/tds_tcs_declaration_received"><span class="sub-arrow icon-arrow_right_small_direction_navigation_icon"></span>TDS/TCS Declaration Received</a>
+                </li>
+            </ul>
+        </li>
+
+        <li>
+             <a onclick="iconSwitch(this)" href="#misc_section" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">
+                <i class="main_nav_icon icon-other_2"></i>
+                <span id="misc_page" class="menu_nav_main">Miscellaneous</span>
+                <span id="misc_expand_icon" class="icon-add expand_icon"></span>
+            </a>
+            <ul class="collapse list-unstyled" id="misc_section">
+                <li>
+                    <a id="insurance" href="/insurance"><span class="sub-arrow icon-arrow_right_small_direction_navigation_icon"></span>Insurance</a>
+                </li>
+                <li>
+                    <a id="courier" href="/courier"><span class="sub-arrow icon-arrow_right_small_direction_navigation_icon"></span>Courier</a>
+                </li>
+                <li>
+                    <a id="personal-kyc" href="/personal-kyc"><span class="sub-arrow icon-arrow_right_small_direction_navigation_icon"></span>Personal KYC</a>
+                </li>
+                <li>
+                    <a id="emp-salary" href="/emp-salary"><span class="sub-arrow icon-arrow_right_small_direction_navigation_icon"></span>Employee Salary</a>
+                </li>
+                <li>
+                    <a id="external_party_transaction" href="/external_party_transaction"><span class="sub-arrow icon-arrow_right_small_direction_navigation_icon"></span>Hundi Transaction</a>
+                </li>
+            </ul>
+        </li>
+
+        <li>
+            <a id="documentation" href="/documentation">
+                <i class="main_nav_icon icon-register"></i>
+                <span id="indexphp" class="menu_nav_main">Documentation</span>
+            </a>
+        </li>
+           
+        </ul>
+    </nav>
+
+     <script> 
+
+        $('head').append('<link rel="icon" type="image/png" href="/favicon.png" /> ');
+
+         $(document).ready(function() {
+
+
+            // active navigation code
+
+            //get current directory path
+            var path = window.location.pathname.split('/')[1];
+
+            path = path.split('.').join(""); //remove dot(.) if path is filename
+
+
+
+            //single page section
+            var pageArr=["indexphp","other_payout","daily_payment_report"];
+            if(pageArr.includes(path))
+            {               
+               $("#"+path).css('font-weight', 'bold');
+            }
+
+
+
+            //sales section
+            var salesArr=["sales_conf_indexphp","sales_register","payment_recivied_register","pending_bales_report","kapasiya_sales_register","kapasiya-sales-rg","sales_conf","sales_conf_split","sales_report","sales_pur_payable","kapasiya_annual_sales"];
+
+            var salesPreArr=["sales_conf","sales_conf_split","sales_report","sales_pur_payable"];
+
+            if(salesArr.includes(path))
+            {               
+                //if pre-selction module then show active on sales_con_indexphp
+                if(salesPreArr.includes(path))
+                {
+                    $("#sales_page").css('font-weight', 'bold');
+                    //$('#sales_section').toggleClass("show");
+                    //$('#sales_expand_icon').removeClass('icon-add').addClass('icon-minus');
+                    $("#sales_conf_indexphp").css('font-weight', 'bold');
+                }
+                else
+                {
+                    $("#sales_page").css('font-weight', 'bold');
+                    //$('#sales_section').toggleClass("show");
+                    //$('#sales_expand_icon').removeClass('icon-add').addClass('icon-minus');
+                    $("#"+path).css('font-weight', 'bold');
+                }
+
+            }
+
+
+
+            //purchase section
+            var purchaseArr=["purchase_indexphp","purchase_register","debit_note_register","comparison_report","bill2bill_payment","bank_balance","bank_transaction","comparison_report_excel_export","rd_kapas_report_export","pur_conf","purchase_report","pur_debit_report","bales_pur_payout","transport_payout","rd_kapas_purchase_payment","rd_kapas_purchase_report","urd_kapas_purchase_payment","comparison_pending_register"];
+
+            var purchasePreArr=["pur_conf","purchase_report","pur_debit_report","bales_pur_payout","transport_payout","rd_kapas_purchase_payment","rd_kapas_purchase_report","urd_kapas_purchase_payment"];
+
+            if(purchaseArr.includes(path))
+            {               
+                //if pre-selction module active then show active on purchase_indexphp
+                if(purchasePreArr.includes(path))
+                {
+                    $("#purchase_page").css('font-weight', 'bold');
+                    //$('#purchase_section').toggleClass("show");
+                    //$('#purchase_expand_icon').removeClass('icon-add').addClass('icon-minus');
+                    $("#purchase_indexphp").css('font-weight', 'bold');
+                }
+                else
+                {
+                    $("#purchase_page").css('font-weight', 'bold');
+                    //$('#purchase_section').toggleClass("show");
+                    //$('#purchase_expand_icon').removeClass('icon-add').addClass('icon-minus');
+                    $("#"+path).css('font-weight', 'bold');
+                }
+
+            }
+
+
+            //ledger section
+            var ledgerArr=["ledger-purchase","ledger-sale"];
+
+            if(ledgerArr.includes(path))
+            {               
+                $("#ledger_page").css('font-weight', 'bold');
+               // $('#ledger_section').toggleClass("show");
+                //$('#ledger_exapand_icon').removeClass('icon-add').addClass('icon-minus');
+                $("#"+path).css('font-weight', 'bold');
+
+            }
+
+
+
+            //master section
+            var masterArr=["financial-year","seasonal-year","firm","products","broker","truck-master","transport","external-party","laboratory-master","external-banks","farmer"];
+
+            if(masterArr.includes(path))
+            {               
+                $("#master_page").css('font-weight', 'bold');
+                //$('#master_section').toggleClass("show");
+                //$('#master_expand_icon').removeClass('icon-add').addClass('icon-minus');
+                $("#"+path).css('font-weight', 'bold');
+
+            }
+
+
+            //reports section
+            var reportsArr=["assessment","audit-report","tds_tcs_declaration_received"];
+
+            if(reportsArr.includes(path))
+            {               
+                $("#report_page").css('font-weight', 'bold');
+                //$('#reports_section').toggleClass("show");
+                //$('#report_expand_icon').removeClass('icon-add').addClass('icon-minus');
+                $("#"+path).css('font-weight', 'bold');
+
+            }
+
+
+            //Miscellaneous section
+            var miscArr=["insurance","courier","personal-kyc","emp-salary","external_party_transaction"];
+
+            if(miscArr.includes(path))
+            {               
+                $("#misc_page").css('font-weight', 'bold');
+                //$('#misc_section').toggleClass("show");
+                //$('#misc_expand_icon').removeClass('icon-add').addClass('icon-minus');
+                $("#"+path).css('font-weight', 'bold');
+
+            }
+
+
+
+
+            //Banking Section
+            if(path=="banking-reports")
+            {    
+                var curFolder = window.location.pathname.split('/')[2];
+
+                $("#banking_page").css('font-weight', 'bold');
+                //$('#banking_section').toggleClass("show");
+                //$('#banking_expand_icon').removeClass('icon-add').addClass('icon-minus');
+
+                $("#"+curFolder).css('font-weight', 'bold');
+
+            }
+
+
+        $('.nav_title_icon').on('click', function () {
+               
+               $('#sidebar').toggleClass('nav_collapse');
+               $('#sidebarnav').toggleClass('nav_collapse');
+               $('#sidebar li').toggleClass('nav_collapse');
+
+               $('#sidebar ul').removeClass('show');
+
+               //$('#sidebar .expand_icon').toggle();
+
+               $('#sidebar .expand_icon').removeClass('icon-minus').addClass('icon-add');
+        });
+
+
+        $('#menu > li ').on("click", function () {
+
+            var curUl = $(this).children('ul');
+
+            $('ul').not(curUl).removeClass('show');
+
+            var curicon = $(this).children().find('.expand_icon');
+            
+
+            $('.expand_icon').not(curicon).removeClass("icon-minus");
+            $('.expand_icon').not(curicon).addClass("icon-add");
+
+        });
+
+
+
+
+
+
+         
+        });
+
+
+        $(document).on("click","#sidebar a", function () {
+
+
+            if(!$('#sidebar').hasClass('nav_collapse')) 
+            {
+                $('#sidebar').addClass('nav_collapse');
+            }
+
+            if(!$('#sidebarnav').hasClass('nav_collapse')) 
+            {
+                $('#sidebarnav').addClass('nav_collapse');
+            }
+
+            if(!$('#sidebar li').hasClass('nav_collapse')) 
+            {
+                $('#sidebar li').addClass('nav_collapse');
+            }
+
+
+
+               /*$('#sidebar').toggleClass('nav_collapse');
+               $('#sidebarnav').toggleClass('nav_collapse');
+               $('#sidebar li').toggleClass('nav_collapse');*/
+              // $('#sidebar .expand_icon').show();
+
+        });
+
+
+          
+          
+        // Function to toggle the plus menu into minus 
+        function iconSwitch(x) {
+
+           
+    
+        var class1 =  $(x).children('.expand_icon');
+          $(class1).toggleClass("menu-open icon-minus");
+          $(class1).toggleClass("icon-add");
+
+
+        } 
+    </script> 

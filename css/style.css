@@ -1,0 +1,145 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?s22cgm');
+  src:  url('fonts/icomoon.eot?s22cgm#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?s22cgm') format('truetype'),
+    url('fonts/icomoon.woff?s22cgm') format('woff'),
+    url('fonts/icomoon.svg?s22cgm#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-arrow_arrow-left_right_icon:before {
+  content: "\e924";
+}
+.icon-arrow_next_right_icon:before {
+  content: "\e925";
+}
+.icon-arrow_right_small_direction_navigation_icon:before {
+  content: "\e926";
+}
+.icon-annual_data_document_fee_legal_icon:before {
+  content: "\e922";
+}
+.icon-business_card_cash_credit_money_icon:before {
+  content: "\e923";
+}
+.icon-arrow_down:before {
+  content: "\e900";
+}
+.icon-bill2bill:before {
+  content: "\e901";
+}
+.icon-compare:before {
+  content: "\e902";
+}
+.icon-daily:before {
+  content: "\e903";
+}
+.icon-Debit:before {
+  content: "\e904";
+}
+.icon-edit:before {
+  content: "\e905";
+}
+.icon-home1:before {
+  content: "\e906";
+}
+.icon-home_2:before {
+  content: "\e907";
+}
+.icon-ledger:before {
+  content: "\e908";
+}
+.icon-master:before {
+  content: "\e909";
+  color: #37474f;
+}
+.icon-other:before {
+  content: "\e90a";
+}
+.icon-other_2:before {
+  content: "\e90b";
+}
+.icon-payment:before {
+  content: "\e90c";
+}
+.icon-pending:before {
+  content: "\e90d";
+}
+.icon-pruchase_2:before {
+  content: "\e90e";
+}
+.icon-pruchase_3:before {
+  content: "\e90f";
+}
+.icon-purchase:before {
+  content: "\e910";
+}
+.icon-purchase_list:before {
+  content: "\e911";
+}
+.icon-purchase_list2:before {
+  content: "\e912";
+}
+.icon-register:before {
+  content: "\e913";
+}
+.icon-report:before {
+  content: "\e914";
+}
+.icon-report_3:before {
+  content: "\e915";
+}
+.icon-report_dashboard:before {
+  content: "\e916";
+}
+.icon-reprot_2:before {
+  content: "\e917";
+}
+.icon-sales:before {
+  content: "\e918";
+}
+.icon-seasonal:before {
+  content: "\e919";
+}
+.icon-truck:before {
+  content: "\e91a";
+}
+.icon-year:before {
+  content: "\e91b";
+}
+.icon-minus:before {
+  content: "\e920";
+}
+.icon-add:before {
+  content: "\e91e";
+}
+.icon-arrow-right:before {
+  content: "\e91d";
+}
+.icon-minus1:before {
+  content: "\e921";
+}
+.icon-plus:before {
+  content: "\e91f";
+}
+.icon-home:before {
+  content: "\e91c";
+}

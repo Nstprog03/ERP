@@ -1,0 +1,28 @@
+[17-Nov-2022 03:55:48 UTC] PHP Fatal error:  Uncaught PhpOffice\PhpSpreadsheet\Exception: Invalid range: "A2:A1" in /home4/jivanlpt/jivandhara-navjivan.com/erp/PHPLibraries/PHPSpreadSheet/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Cell/Coordinate.php:567
+Stack trace:
+#0 /home4/jivanlpt/jivandhara-navjivan.com/erp/PHPLibraries/PHPSpreadSheet/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Cell/Coordinate.php(430): PhpOffice\PhpSpreadsheet\Cell\Coordinate::validateRange('A2:A1', 1, 2, '2', '1')
+#1 /home4/jivanlpt/jivandhara-navjivan.com/erp/PHPLibraries/PHPSpreadSheet/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Cell/Coordinate.php(344): PhpOffice\PhpSpreadsheet\Cell\Coordinate::getReferencesForCellBlock('A2:A1')
+#2 /home4/jivanlpt/jivandhara-navjivan.com/erp/PHPLibraries/PHPSpreadSheet/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Worksheet/Worksheet.php(1671): PhpOffice\PhpSpreadsheet\Cell\Coordinate::extractAllCellReferencesInRange('A2:A1')
+#3 /home4/jivanlpt/jivandhara-navjivan.com/erp/bank_receipt/generate_excel.php(214): PhpOffice\PhpSpreadsheet\Worksheet\Worksheet->mergeCells('A2:A1')
+#4 {main}
+  thrown in /home4/jivanlpt/jivandhara-navjivan.com/erp/PHPLibraries/PHPSpreadSheet/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Cell/Coordinate.php on line 567
+[17-Nov-2022 03:56:57 UTC] PHP Fatal error:  Uncaught PhpOffice\PhpSpreadsheet\Exception: Invalid range: "A2:A1" in /home4/jivanlpt/jivandhara-navjivan.com/erp/PHPLibraries/PHPSpreadSheet/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Cell/Coordinate.php:567
+Stack trace:
+#0 /home4/jivanlpt/jivandhara-navjivan.com/erp/PHPLibraries/PHPSpreadSheet/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Cell/Coordinate.php(430): PhpOffice\PhpSpreadsheet\Cell\Coordinate::validateRange('A2:A1', 1, 2, '2', '1')
+#1 /home4/jivanlpt/jivandhara-navjivan.com/erp/PHPLibraries/PHPSpreadSheet/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Cell/Coordinate.php(344): PhpOffice\PhpSpreadsheet\Cell\Coordinate::getReferencesForCellBlock('A2:A1')
+#2 /home4/jivanlpt/jivandhara-navjivan.com/erp/PHPLibraries/PHPSpreadSheet/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Worksheet/Worksheet.php(1671): PhpOffice\PhpSpreadsheet\Cell\Coordinate::extractAllCellReferencesInRange('A2:A1')
+#3 /home4/jivanlpt/jivandhara-navjivan.com/erp/bank_receipt/generate_excel.php(214): PhpOffice\PhpSpreadsheet\Worksheet\Worksheet->mergeCells('A2:A1')
+#4 {main}
+  thrown in /home4/jivanlpt/jivandhara-navjivan.com/erp/PHPLibraries/PHPSpreadSheet/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Cell/Coordinate.php on line 567
+[17-Nov-2022 03:58:48 UTC] PHP Warning:  Array to string conversion in /home4/jivanlpt/jivandhara-navjivan.com/erp/bank_receipt/generate_excel.php on line 215
+[17-Nov-2022 04:01:14 UTC] PHP Warning:  Undefined variable $end in /home4/jivanlpt/jivandhara-navjivan.com/erp/bank_receipt/generate_excel.php on line 213
+[17-Nov-2022 04:01:14 UTC] PHP Fatal error:  Uncaught PhpOffice\PhpSpreadsheet\Exception: Invalid cell coordinate A in /home4/jivanlpt/jivandhara-navjivan.com/erp/PHPLibraries/PHPSpreadSheet/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Cell/Coordinate.php:42
+Stack trace:
+#0 /home4/jivanlpt/jivandhara-navjivan.com/erp/PHPLibraries/PHPSpreadSheet/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Cell/Coordinate.php(421): PhpOffice\PhpSpreadsheet\Cell\Coordinate::coordinateFromString('A')
+#1 /home4/jivanlpt/jivandhara-navjivan.com/erp/PHPLibraries/PHPSpreadSheet/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Cell/Coordinate.php(344): PhpOffice\PhpSpreadsheet\Cell\Coordinate::getReferencesForCellBlock('A2:A')
+#2 /home4/jivanlpt/jivandhara-navjivan.com/erp/PHPLibraries/PHPSpreadSheet/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Worksheet/Worksheet.php(1671): PhpOffice\PhpSpreadsheet\Cell\Coordinate::extractAllCellReferencesInRange('A2:A')
+#3 /home4/jivanlpt/jivandhara-navjivan.com/erp/bank_receipt/generate_excel.php(213): PhpOffice\PhpSpreadsheet\Worksheet\Worksheet->mergeCells('A2:A')
+#4 {main}
+  thrown in /home4/jivanlpt/jivandhara-navjivan.com/erp/PHPLibraries/PHPSpreadSheet/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Cell/Coordinate.php on line 42
+[15-Jan-2023 09:42:18 UTC] PHP Warning:  Undefined array key "ext_party" in /home4/jivanlpt/jivandhara-navjivan.com/erp/bank_receipt/add.php on line 22
+[26-Jan-2023 13:04:49 UTC] PHP Warning:  Undefined array key "ext_party" in /home4/jivanlpt/jivandhara-navjivan.com/erp/bank_receipt/add.php on line 22

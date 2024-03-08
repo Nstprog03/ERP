@@ -1,0 +1,12 @@
+[20-Nov-2022 12:19:31 UTC] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: string - null in /home4/jivanlpt/jivandhara-navjivan.com/erp/purchase_report/create.php:158
+Stack trace:
+#0 {main}
+  thrown in /home4/jivanlpt/jivandhara-navjivan.com/erp/purchase_report/create.php on line 158
+[20-Nov-2022 12:20:05 UTC] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: string - null in /home4/jivanlpt/jivandhara-navjivan.com/erp/purchase_report/create.php:158
+Stack trace:
+#0 {main}
+  thrown in /home4/jivanlpt/jivandhara-navjivan.com/erp/purchase_report/create.php on line 158
+[20-Nov-2022 12:20:30 UTC] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: string - null in /home4/jivanlpt/jivandhara-navjivan.com/erp/purchase_report/create.php:158
+Stack trace:
+#0 {main}
+  thrown in /home4/jivanlpt/jivandhara-navjivan.com/erp/purchase_report/create.php on line 158

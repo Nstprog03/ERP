@@ -1,0 +1,87 @@
+[18-Nov-2022 10:20:38 UTC] PHP Warning:  Undefined array key "broker" in /home4/jivanlpt/jivandhara-navjivan.com/erp/sales_conf/add.php on line 46
+[18-Nov-2022 10:20:38 UTC] PHP Warning:  Undefined array key "trans_ins" in /home4/jivanlpt/jivandhara-navjivan.com/erp/sales_conf/add.php on line 47
+[24-Nov-2022 07:01:28 UTC] PHP Warning:  Undefined array key "sub_variety" in /home4/jivanlpt/jivandhara-navjivan.com/erp/sales_conf/add.php on line 90
+[27-Dec-2022 09:55:24 UTC] PHP Warning:  Undefined array key "sales_conf_firm" in /home4/jivanlpt/jivandhara-navjivan.com/erp/sales_conf/index.php on line 14
+[27-Dec-2022 09:55:24 UTC] PHP Warning:  Undefined array key "sales_conf_firm_id" in /home4/jivanlpt/jivandhara-navjivan.com/erp/sales_conf/index.php on line 15
+[27-Dec-2022 09:55:24 UTC] PHP Warning:  Undefined array key "sales_conf_financial_year" in /home4/jivanlpt/jivandhara-navjivan.com/erp/sales_conf/index.php on line 16
+[27-Dec-2022 09:55:24 UTC] PHP Warning:  Undefined array key "sales_conf_firm_id" in /home4/jivanlpt/jivandhara-navjivan.com/erp/sales_conf/index.php on line 288
+[27-Dec-2022 09:55:24 UTC] PHP Warning:  Undefined array key "sales_financial_year_id" in /home4/jivanlpt/jivandhara-navjivan.com/erp/sales_conf/index.php on line 288
+[27-Dec-2022 09:55:24 UTC] PHP Warning:  Undefined array key "sales_conf_financial_year" in /home4/jivanlpt/jivandhara-navjivan.com/erp/sales_conf/index.php on line 395
+[27-Dec-2022 09:55:24 UTC] PHP Warning:  Undefined array key "sales_conf_firm" in /home4/jivanlpt/jivandhara-navjivan.com/erp/sales_conf/index.php on line 396
+[27-Dec-2022 09:55:24 UTC] PHP Warning:  Undefined array key "sales_conf_firm_id" in /home4/jivanlpt/jivandhara-navjivan.com/erp/sales_conf/index.php on line 396
+[27-Dec-2022 09:55:24 UTC] PHP Warning:  Undefined array key "sales_conf_firm" in /home4/jivanlpt/jivandhara-navjivan.com/erp/sales_conf/index.php on line 415
+[27-Dec-2022 09:55:24 UTC] PHP Warning:  Undefined array key "sales_conf_financial_year" in /home4/jivanlpt/jivandhara-navjivan.com/erp/sales_conf/index.php on line 422
+[27-Dec-2022 09:55:24 UTC] PHP Warning:  Undefined array key 1 in /home4/jivanlpt/jivandhara-navjivan.com/erp/sales_conf/index.php on line 425
+[27-Dec-2022 09:55:24 UTC] PHP Warning:  Undefined array key "sales_financial_year_id" in /home4/jivanlpt/jivandhara-navjivan.com/erp/sales_conf/index.php on line 436
+[27-Dec-2022 09:55:24 UTC] PHP Warning:  Undefined array key "sales_conf_firm_id" in /home4/jivanlpt/jivandhara-navjivan.com/erp/sales_conf/index.php on line 437
+[27-Dec-2022 09:55:24 UTC] PHP Warning:  Undefined array key "sales_conf_firm_id" in /home4/jivanlpt/jivandhara-navjivan.com/erp/sales_conf/index.php on line 881
+[27-Dec-2022 09:55:24 UTC] PHP Warning:  Undefined array key "sales_financial_year_id" in /home4/jivanlpt/jivandhara-navjivan.com/erp/sales_conf/index.php on line 881
+[27-Dec-2022 09:55:24 UTC] PHP Warning:  Undefined array key 1 in /home4/jivanlpt/jivandhara-navjivan.com/erp/sales_conf/index.php on line 981
+[31-Dec-2022 10:48:00 UTC] PHP Warning:  Undefined array key "broker" in /home4/jivanlpt/jivandhara-navjivan.com/erp/sales_conf/add.php on line 46
+[31-Dec-2022 10:48:00 UTC] PHP Warning:  Undefined array key "trans_ins" in /home4/jivanlpt/jivandhara-navjivan.com/erp/sales_conf/add.php on line 47
+[31-Dec-2022 10:48:00 UTC] PHP Warning:  Undefined array key "variety" in /home4/jivanlpt/jivandhara-navjivan.com/erp/sales_conf/add.php on line 89
+[31-Dec-2022 10:48:00 UTC] PHP Warning:  Undefined array key "sub_variety" in /home4/jivanlpt/jivandhara-navjivan.com/erp/sales_conf/add.php on line 90
+[21-Jan-2023 12:10:04 UTC] PHP Warning:  Undefined array key "conf_type" in /home4/jivanlpt/jivandhara-navjivan.com/erp/sales_conf/add.php on line 19
+[21-Jan-2023 12:13:09 UTC] PHP Warning:  Undefined variable $status_string in /home4/jivanlpt/jivandhara-navjivan.com/erp/sales_conf/index.php on line 778
+[21-Jan-2023 12:13:24 UTC] PHP Warning:  Undefined variable $status_string in /home4/jivanlpt/jivandhara-navjivan.com/erp/sales_conf/index.php on line 778
+[21-Jan-2023 12:13:30 UTC] PHP Warning:  Undefined array key "" in /home4/jivanlpt/jivandhara-navjivan.com/erp/sales_conf/generate_pdf.php on line 139
+[22-Jan-2023 07:17:05 UTC] PHP Warning:  Undefined variable $status_string in /home4/jivanlpt/jivandhara-navjivan.com/erp/sales_conf/index.php on line 778
+[22-Jan-2023 07:18:32 UTC] PHP Warning:  Undefined variable $status_string in /home4/jivanlpt/jivandhara-navjivan.com/erp/sales_conf/index.php on line 778
+[22-Jan-2023 07:18:46 UTC] PHP Warning:  Undefined variable $status_string in /home4/jivanlpt/jivandhara-navjivan.com/erp/sales_conf/index.php on line 778
+[22-Jan-2023 07:19:07 UTC] PHP Warning:  Undefined variable $status_string in /home4/jivanlpt/jivandhara-navjivan.com/erp/sales_conf/index.php on line 778
+[22-Jan-2023 07:19:16 UTC] PHP Warning:  Undefined variable $status_string in /home4/jivanlpt/jivandhara-navjivan.com/erp/sales_conf/index.php on line 778
+[24-Jan-2023 15:39:49 UTC] PHP Warning:  Undefined array key "conf_type" in /home4/jivanlpt/jivandhara-navjivan.com/erp/sales_conf/add.php on line 19
+[24-Jan-2023 15:39:49 UTC] PHP Warning:  Undefined variable $status_string in /home4/jivanlpt/jivandhara-navjivan.com/erp/sales_conf/index.php on line 778
+[24-Jan-2023 15:40:44 UTC] PHP Warning:  Undefined variable $status_string in /home4/jivanlpt/jivandhara-navjivan.com/erp/sales_conf/index.php on line 778
+[24-Jan-2023 15:40:54 UTC] PHP Warning:  Undefined variable $status_string in /home4/jivanlpt/jivandhara-navjivan.com/erp/sales_conf/index.php on line 778
+[24-Jan-2023 15:41:29 UTC] PHP Warning:  Undefined variable $status_string in /home4/jivanlpt/jivandhara-navjivan.com/erp/sales_conf/index.php on line 778
+[24-Jan-2023 15:41:52 UTC] PHP Warning:  Undefined variable $status_string in /home4/jivanlpt/jivandhara-navjivan.com/erp/sales_conf/index.php on line 778
+[24-Jan-2023 15:45:13 UTC] PHP Warning:  Undefined variable $status_string in /home4/jivanlpt/jivandhara-navjivan.com/erp/sales_conf/index.php on line 778
+[24-Jan-2023 15:45:19 UTC] PHP Warning:  Undefined array key "" in /home4/jivanlpt/jivandhara-navjivan.com/erp/sales_conf/generate_pdf.php on line 139
+[24-Jan-2023 15:45:51 UTC] PHP Warning:  Undefined variable $status_string in /home4/jivanlpt/jivandhara-navjivan.com/erp/sales_conf/index.php on line 778
+[24-Jan-2023 15:45:56 UTC] PHP Warning:  Undefined variable $status_string in /home4/jivanlpt/jivandhara-navjivan.com/erp/sales_conf/index.php on line 778
+[24-Jan-2023 15:47:02 UTC] PHP Warning:  Undefined variable $status_string in /home4/jivanlpt/jivandhara-navjivan.com/erp/sales_conf/index.php on line 778
+[24-Jan-2023 15:47:13 UTC] PHP Warning:  Undefined variable $status_string in /home4/jivanlpt/jivandhara-navjivan.com/erp/sales_conf/index.php on line 778
+[03-Feb-2023 10:57:24 UTC] PHP Warning:  Undefined array key "conf_type" in /home4/jivanlpt/jivandhara-navjivan.com/erp/sales_conf/add.php on line 19
+[03-Feb-2023 10:57:35 UTC] PHP Warning:  Undefined variable $status_string in /home4/jivanlpt/jivandhara-navjivan.com/erp/sales_conf/index.php on line 778
+[03-Feb-2023 10:57:40 UTC] PHP Warning:  Undefined array key "" in /home4/jivanlpt/jivandhara-navjivan.com/erp/sales_conf/generate_pdf.php on line 139
+[03-Feb-2023 11:24:46 UTC] PHP Warning:  Undefined variable $status_string in /home4/jivanlpt/jivandhara-navjivan.com/erp/sales_conf/index.php on line 778
+[05-Feb-2023 12:37:36 UTC] PHP Warning:  Undefined array key "prod_quality" in /home4/jivanlpt/jivandhara-navjivan.com/erp/sales_conf/add.php on line 88
+[05-Feb-2023 12:37:36 UTC] PHP Warning:  Undefined array key "variety" in /home4/jivanlpt/jivandhara-navjivan.com/erp/sales_conf/add.php on line 89
+[05-Feb-2023 12:37:36 UTC] PHP Warning:  Undefined array key "sub_variety" in /home4/jivanlpt/jivandhara-navjivan.com/erp/sales_conf/add.php on line 90
+[05-Feb-2023 12:40:03 UTC] PHP Warning:  Undefined array key "variety" in /home4/jivanlpt/jivandhara-navjivan.com/erp/sales_conf/update.php on line 34
+[05-Feb-2023 12:40:03 UTC] PHP Warning:  Undefined array key "sub_variety" in /home4/jivanlpt/jivandhara-navjivan.com/erp/sales_conf/update.php on line 35
+[05-Feb-2023 12:41:18 UTC] PHP Warning:  Undefined array key "variety" in /home4/jivanlpt/jivandhara-navjivan.com/erp/sales_conf/update.php on line 34
+[05-Feb-2023 12:41:18 UTC] PHP Warning:  Undefined array key "sub_variety" in /home4/jivanlpt/jivandhara-navjivan.com/erp/sales_conf/update.php on line 35
+[05-Feb-2023 12:44:36 UTC] PHP Warning:  Undefined array key "variety" in /home4/jivanlpt/jivandhara-navjivan.com/erp/sales_conf/update.php on line 34
+[05-Feb-2023 12:44:36 UTC] PHP Warning:  Undefined array key "sub_variety" in /home4/jivanlpt/jivandhara-navjivan.com/erp/sales_conf/update.php on line 35
+[11-Mar-2023 15:22:48 UTC] PHP Warning:  Undefined array key "sub_variety" in /home4/jivanlpt/jivandhara-navjivan.com/erp/sales_conf/add.php on line 90
+[20-Mar-2023 12:29:17 UTC] PHP Warning:  Undefined array key "sales_conf_firm" in /home4/jivanlpt/jivandhara-navjivan.com/erp/sales_conf/edit.php on line 13
+[20-Mar-2023 12:29:17 UTC] PHP Warning:  Undefined array key "sales_conf_firm_id" in /home4/jivanlpt/jivandhara-navjivan.com/erp/sales_conf/edit.php on line 14
+[20-Mar-2023 12:29:17 UTC] PHP Warning:  Undefined array key "sales_conf_financial_year" in /home4/jivanlpt/jivandhara-navjivan.com/erp/sales_conf/edit.php on line 16
+[20-Mar-2023 12:29:17 UTC] PHP Warning:  Undefined array key 1 in /home4/jivanlpt/jivandhara-navjivan.com/erp/sales_conf/edit.php on line 109
+[20-Mar-2023 12:29:17 UTC] PHP Warning:  Undefined array key "sales_conf_firm" in /home4/jivanlpt/jivandhara-navjivan.com/erp/sales_conf/edit.php on line 156
+[20-Mar-2023 12:29:17 UTC] PHP Warning:  Undefined array key "sales_conf_financial_year" in /home4/jivanlpt/jivandhara-navjivan.com/erp/sales_conf/edit.php on line 163
+[20-Mar-2023 12:29:17 UTC] PHP Warning:  Undefined array key 1 in /home4/jivanlpt/jivandhara-navjivan.com/erp/sales_conf/edit.php on line 166
+[21-Apr-2023 13:18:11 UTC] PHP Warning:  Undefined array key "prod_quality" in /home4/jivanlpt/jivandhara-navjivan.com/erp/sales_conf/add.php on line 88
+[21-Apr-2023 13:18:11 UTC] PHP Warning:  Undefined array key "variety" in /home4/jivanlpt/jivandhara-navjivan.com/erp/sales_conf/add.php on line 89
+[21-Apr-2023 13:18:11 UTC] PHP Warning:  Undefined array key "sub_variety" in /home4/jivanlpt/jivandhara-navjivan.com/erp/sales_conf/add.php on line 90
+[21-Apr-2023 13:18:47 UTC] PHP Warning:  Undefined array key "prod_quality" in /home4/jivanlpt/jivandhara-navjivan.com/erp/sales_conf/update.php on line 33
+[24-Apr-2023 12:20:34 UTC] PHP Warning:  Undefined array key "prod_quality" in /home4/jivanlpt/jivandhara-navjivan.com/erp/sales_conf/update.php on line 33
+[25-Apr-2023 10:08:54 UTC] PHP Warning:  Undefined array key "prod_quality" in /home4/jivanlpt/jivandhara-navjivan.com/erp/sales_conf/update.php on line 33
+[03-Jul-2023 12:54:04 UTC] PHP Warning:  Undefined array key "sales_conf_firm" in /home4/jivanlpt/jivandhara-navjivan.com/erp/sales_conf/index.php on line 14
+[03-Jul-2023 12:54:04 UTC] PHP Warning:  Undefined array key "sales_conf_firm_id" in /home4/jivanlpt/jivandhara-navjivan.com/erp/sales_conf/index.php on line 15
+[03-Jul-2023 12:54:04 UTC] PHP Warning:  Undefined array key "sales_conf_financial_year" in /home4/jivanlpt/jivandhara-navjivan.com/erp/sales_conf/index.php on line 16
+[03-Jul-2023 12:54:04 UTC] PHP Warning:  Undefined array key "sales_conf_firm_id" in /home4/jivanlpt/jivandhara-navjivan.com/erp/sales_conf/index.php on line 288
+[03-Jul-2023 12:54:04 UTC] PHP Warning:  Undefined array key "sales_financial_year_id" in /home4/jivanlpt/jivandhara-navjivan.com/erp/sales_conf/index.php on line 288
+[03-Jul-2023 12:54:04 UTC] PHP Warning:  Undefined array key "sales_conf_financial_year" in /home4/jivanlpt/jivandhara-navjivan.com/erp/sales_conf/index.php on line 395
+[03-Jul-2023 12:54:04 UTC] PHP Warning:  Undefined array key "sales_conf_firm" in /home4/jivanlpt/jivandhara-navjivan.com/erp/sales_conf/index.php on line 396
+[03-Jul-2023 12:54:04 UTC] PHP Warning:  Undefined array key "sales_conf_firm_id" in /home4/jivanlpt/jivandhara-navjivan.com/erp/sales_conf/index.php on line 396
+[03-Jul-2023 12:54:04 UTC] PHP Warning:  Undefined array key "sales_conf_firm" in /home4/jivanlpt/jivandhara-navjivan.com/erp/sales_conf/index.php on line 415
+[03-Jul-2023 12:54:04 UTC] PHP Warning:  Undefined array key "sales_conf_financial_year" in /home4/jivanlpt/jivandhara-navjivan.com/erp/sales_conf/index.php on line 422
+[03-Jul-2023 12:54:04 UTC] PHP Warning:  Undefined array key 1 in /home4/jivanlpt/jivandhara-navjivan.com/erp/sales_conf/index.php on line 425
+[03-Jul-2023 12:54:04 UTC] PHP Warning:  Undefined array key "sales_financial_year_id" in /home4/jivanlpt/jivandhara-navjivan.com/erp/sales_conf/index.php on line 436
+[03-Jul-2023 12:54:04 UTC] PHP Warning:  Undefined array key "sales_conf_firm_id" in /home4/jivanlpt/jivandhara-navjivan.com/erp/sales_conf/index.php on line 437
+[03-Jul-2023 12:54:04 UTC] PHP Warning:  Undefined array key "sales_conf_firm_id" in /home4/jivanlpt/jivandhara-navjivan.com/erp/sales_conf/index.php on line 881
+[03-Jul-2023 12:54:04 UTC] PHP Warning:  Undefined array key "sales_financial_year_id" in /home4/jivanlpt/jivandhara-navjivan.com/erp/sales_conf/index.php on line 881
+[03-Jul-2023 12:54:04 UTC] PHP Warning:  Undefined array key 1 in /home4/jivanlpt/jivandhara-navjivan.com/erp/sales_conf/index.php on line 981

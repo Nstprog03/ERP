@@ -1,0 +1,26 @@
+[07-Dec-2022 12:45:34 UTC] PHP Warning:  Undefined variable $conn in /home4/jivanlpt/jivandhara-navjivan.com/erp/bank_balance/generate_excel.php on line 69
+[07-Dec-2022 12:45:34 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home4/jivanlpt/jivandhara-navjivan.com/erp/bank_balance/generate_excel.php:69
+Stack trace:
+#0 /home4/jivanlpt/jivandhara-navjivan.com/erp/bank_balance/generate_excel.php(69): mysqli_query(NULL, 'SELECT * FROM t...')
+#1 /home4/jivanlpt/jivandhara-navjivan.com/erp/bank_balance/generate_excel.php(172): GetTransportName('37')
+#2 {main}
+  thrown in /home4/jivanlpt/jivandhara-navjivan.com/erp/bank_balance/generate_excel.php on line 69
+[07-Dec-2022 12:45:52 UTC] PHP Warning:  Undefined variable $conn in /home4/jivanlpt/jivandhara-navjivan.com/erp/bank_balance/generate_excel.php on line 69
+[07-Dec-2022 12:45:52 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home4/jivanlpt/jivandhara-navjivan.com/erp/bank_balance/generate_excel.php:69
+Stack trace:
+#0 /home4/jivanlpt/jivandhara-navjivan.com/erp/bank_balance/generate_excel.php(69): mysqli_query(NULL, 'SELECT * FROM t...')
+#1 /home4/jivanlpt/jivandhara-navjivan.com/erp/bank_balance/generate_excel.php(172): GetTransportName('37')
+#2 {main}
+  thrown in /home4/jivanlpt/jivandhara-navjivan.com/erp/bank_balance/generate_excel.php on line 69
+[26-Jan-2023 13:27:51 UTC] PHP Warning:  Undefined variable $join in /home4/jivanlpt/jivandhara-navjivan.com/erp/bank_balance/home.php on line 170
+[26-Jan-2023 13:27:51 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_num_rows(): Argument #1 ($result) must be of type mysqli_result, bool given in /home4/jivanlpt/jivandhara-navjivan.com/erp/bank_balance/home.php:579
+Stack trace:
+#0 /home4/jivanlpt/jivandhara-navjivan.com/erp/bank_balance/home.php(579): mysqli_num_rows(false)
+#1 {main}
+  thrown in /home4/jivanlpt/jivandhara-navjivan.com/erp/bank_balance/home.php on line 579
+[26-Jan-2023 13:28:00 UTC] PHP Warning:  Undefined variable $join in /home4/jivanlpt/jivandhara-navjivan.com/erp/bank_balance/home.php on line 170
+[26-Jan-2023 13:28:00 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_num_rows(): Argument #1 ($result) must be of type mysqli_result, bool given in /home4/jivanlpt/jivandhara-navjivan.com/erp/bank_balance/home.php:579
+Stack trace:
+#0 /home4/jivanlpt/jivandhara-navjivan.com/erp/bank_balance/home.php(579): mysqli_num_rows(false)
+#1 {main}
+  thrown in /home4/jivanlpt/jivandhara-navjivan.com/erp/bank_balance/home.php on line 579

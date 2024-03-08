@@ -1,0 +1,4 @@
+[01-Aug-2023 05:10:59 UTC] PHP Warning:  Undefined array key "courier_file" in /home4/jivanlpt/jivandhara-navjivan.com/erp/courier/index.php on line 16
+[01-Aug-2023 05:10:59 UTC] PHP Warning:  Undefined variable $upload_dir in /home4/jivanlpt/jivandhara-navjivan.com/erp/courier/index.php on line 17
+[01-Aug-2023 05:10:59 UTC] PHP Warning:  Undefined variable $image in /home4/jivanlpt/jivandhara-navjivan.com/erp/courier/index.php on line 17
+[01-Aug-2023 05:10:59 UTC] PHP Warning:  unlink(): No such file or directory in /home4/jivanlpt/jivandhara-navjivan.com/erp/courier/index.php on line 17
